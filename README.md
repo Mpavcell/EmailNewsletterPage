@@ -4,9 +4,9 @@ DISCLAIMER: This website is a personal recreation of an already existing website
 
 --
 
-This website is a one-page landing page for an investment company.
+This website is an email newsletter page.
 
-Visit the website at: 
+Visit the website at: https://mpavcell.github.io/EmailNewsletterPage/
 
 --
 
